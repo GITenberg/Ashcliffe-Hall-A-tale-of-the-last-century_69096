@@ -1,5 +1,8 @@
 _repo: Ashcliffe-Hall-A-tale-of-the-last-century_69096
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69096-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Holt, Emily Sarah
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '9787'
     url: http://www.gutenberg.org/2009/agents/9787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69096#Ashcliffe-Hall-A-tale-of-the-last-century
 gutenberg_issued: '2022-10-03'
 identifiers:
   gutenberg: '69096'
